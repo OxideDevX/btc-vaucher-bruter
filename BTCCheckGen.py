@@ -1,6 +1,6 @@
-import random
-
-print(' ')
+# Подключение библиотек
+import random 
+print (' ')
 print('////////OxideDevX привевствует вас!')
 print('......[ BTCCheckGen 1.0 ]......')
 print('Генератор чеков для @BTC_CHANGE_BOT')
@@ -8,6 +8,7 @@ print('Разработчик: t.me/pwntt')
 print(' ')
 print('......[ BTCCheckGen 1.0 ]......')
 print(' ')
+# Задаем данные которые будут использоваться для генерации.
 chars = 'abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 number = input('◾ Укажите желаемое количество ссылок для генерации:'+ "\n")
 print(' ')
@@ -28,4 +29,4 @@ for n in range(number):
 print(' ')
 print('➕ Удачного поиска! :) ')
 print()
-toexit = input("[BTCCheckGen] ⚠️ Нажмите любую клавишу для завершения работы.")
+toexit = input("[BTCCheckGen]  Нажмите любую клавишу для завершения работы.")
