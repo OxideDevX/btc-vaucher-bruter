@@ -1,5 +1,5 @@
 # BTC vaucher generator
-***Привет. Данный проект создан кодером OxideDevX(Pentester). Telegram: @pwntt .***
+***Привет. Данный проект создан кодером OxideDevX(Pentester). Telegram: @hassenso_kardotto . .***
 
 *Что это такое?*
 Генератор BTC чеков. 
