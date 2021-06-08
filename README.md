@@ -26,5 +26,7 @@
 
 Далее запустится скрипт, и начнет генерировать ссылки.
 Если все сделали правильно то скрипт сгенерирует вам ссылки такого типа:
-    https://t.me/BTC_CHANGE_BOT?start=b_6aAjgfhfjhdg4754BLa6aZIFedRlvcET5Ea1N5
+    https://t.me/BTC_CHANGE_BOT?start=c_6aAjgfhfjhdg4754BLa6aZIFedRlvcET5Ea1N5
+UPD!!! Можно запустить скрипт на любом онлайн сервисе, пример: https://www.programiz.com/python-programming/online-compiler/
+Для этого нужно просто скопировать Python код в поле для ввода на вышеуказанном сайте и нажать кнопку "Run".
 Удачи в поисках!
