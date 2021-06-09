@@ -1,14 +1,21 @@
-print('Немного подожди....Подключаю библиотеку....Я же не с воздуха данные беру :) ')
-import random
+# Код форкнут и немного исправлен кодером самоучкой OxideDevX
+# Для начала импорптируем библиотеку для генерации(random)
+import random  
+# Теперь импортируем бибилиотеку времени(для создания задержки)
+import time
 print(' ')
 print('OxideDevX он же Pentester привевствует вас!')
+# Это задержка
+time.sleep(0.8) #время в секундах!!! 
 print('......[ BTCCheckGen v 2.0 ]......')
 print('Генератор чеков для @BTC_CHANGE_BOT')
+time.sleep(0.8) #время в секундах!!! 
 print('Мой Telegram @hassenso_kardotto')
 print(' ')
+time.sleep(0.8) #время в секундах!!! 
 print('......[ BTCCheckGen 2.0 ]......')
 print(' ')
-chars = 'abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
+chars = 'abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890' 
 number = input('◾ Укажите желаемое количество ссылок для генерации:'+ "\n")
 print(' ')
 length = input('◾Укажите длинну чека (рекомендовано 32):'+ "\n")
