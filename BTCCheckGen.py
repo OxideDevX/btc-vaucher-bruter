@@ -6,14 +6,14 @@ import time
 print(' ')
 print('OxideDevX он же Pentester привевствует вас!')
 # Это задержка
-time.sleep(0.8) #время в секундах!!! 
-print('......[ BTCCheckGen v 2.0 ]......')
-print('Генератор чеков для @BTC_CHANGE_BOT')
-time.sleep(0.8) #время в секундах!!! 
+time.sleep(0.9) #время в секундах!!! 
+print('......[ BTCCheckGen v 3.0 ]......')
+print('Генератор чеков для телеграм бота @BTC_CHANGE_BOT')
+time.sleep(0.2) #время в секундах!!! 
 print('Мой Telegram @hassenso_kardotto')
 print(' ')
 time.sleep(0.8) #время в секундах!!! 
-print('......[ BTCCheckGen 2.0 ]......')
+print('......[ BTCCheckGen 3.0 ]......')
 print(' ')
 chars = 'abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890' 
 number = input('◾ Укажите желаемое количество ссылок для генерации:'+ "\n")
