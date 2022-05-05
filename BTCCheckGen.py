@@ -15,10 +15,10 @@ print(' ')
 time.sleep(0.8) #время в секундах!!! 
 print('......[ BTCCheckGen 3.0 ]......')
 print(' ')
-chars = 'abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890' 
-number = input('◾ Укажите желаемое количество ссылок для генерации:'+ "\n")
+chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklnopqrstuvwxyz1234567890' 
+number = input('◾ Укажите желаемое количество ссылок для генерации:'+"\n")
 print(' ')
-length = input('◾Укажите длинну чека (рекомендовано 32):'+ "\n")
+length = input('◾Укажите длинну чека (рекомендовано 32):'+"\n")
 print(' ')
 number = int(number)
 length = int(length)
