@@ -1,4 +1,5 @@
-#BTC voucher generator
+##BTC voucher generator
+
 ***Hey. This project was created by OxideDevX.***
 
 *What it is?*
