@@ -9,16 +9,14 @@ print('OxideDevX он же Pentester привевствует вас!')
 time.sleep(0.9) #время в секундах!!! 
 print('......[ BTCCheckGen v 3.0 ]......')
 print('Генератор чеков для телеграм бота @BTC_CHANGE_BOT')
-time.sleep(0.2) #время в секундах!!! 
-print('Мой Telegram @hassenso_kardotto')
 print(' ')
 time.sleep(0.8) #время в секундах!!! 
-print('......[ BTCCheckGen 3.0 ]......')
+print('......[ BTCCheckGen 4.0 ]......')
 print(' ')
 chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklnopqrstuvwxyz1234567890' 
 number = input('◾ Укажите желаемое количество ссылок для генерации:'+"\n")
 print(' ')
-length = input('◾Укажите длинну чека (рекомендовано 32):'+"\n")
+length = input('◾Укажите длинну чека (вводим 32):'+"\n")
 print(' ')
 number = int(number)
 length = int(length)
@@ -35,4 +33,4 @@ for n in range(number):
 print(' ')
 print(' Удачного поиска! :) ')
 print()
-toexit = input("[BTCCheckGen]  Нажмите любую клавишу для завершения работы.")
+toexit = input("Нажмите любую клавишу для завершения работы.")
