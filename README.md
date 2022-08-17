@@ -19,7 +19,7 @@
 
     git clone https://github.com/OxideDevX/btc-vaucher-bruter.git
 
-    cd BTCVoucherGen
+    cd btc-vaucher-bruter
 
 Запускаем скрипт командой:
 
